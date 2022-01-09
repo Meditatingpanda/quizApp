@@ -1,4 +1,4 @@
-const crtAns = ["A", "B1"];
+const crtAns = ["A", "B1","A2"];
 let form = document.querySelector("form");
 const numb = document.querySelector(".number");
 let leftRotor = document.querySelector(".k1");
