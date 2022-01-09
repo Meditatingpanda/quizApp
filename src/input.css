@@ -28,6 +28,13 @@
             ml-3;
   }
 }
+
+.intro{
+   height:20vh;
+}
+.question-wrapper{
+  min-height:80vh;
+}
 .circular {
   height: 100px;
   width: 100px;
