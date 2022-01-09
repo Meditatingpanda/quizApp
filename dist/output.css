@@ -516,6 +516,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   visibility: visible;
 }
 
+.fixed {
+  position: fixed;
+}
+
 .relative {
   position: relative;
 }
